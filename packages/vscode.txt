@@ -1,0 +1,8 @@
+anthropic.claude-code
+devsense.composer-php-vscode
+golang.go
+meta.pyrefly
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-python-envs
+vscjava.vscode-java-dependency

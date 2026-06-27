@@ -1,0 +1,4 @@
+com.bitwarden.desktop
+com.github.GradienceTeam.Gradience
+md.obsidian.Obsidian
+org.localsend.localsend_app
