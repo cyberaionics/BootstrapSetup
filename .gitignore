@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Shell History
+.zsh_history
+
+# Secret Environment
+.env
+.env.*
+
+# FastFetch Backups
+*.bak
